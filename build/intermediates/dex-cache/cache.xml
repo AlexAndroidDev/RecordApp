@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\RecordVoice\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\RecordVoice\app\build\intermediates\pre-dexed\debug\classes-ddffd509460c58777c1c383fbd5e891d5dd32eda.jar" />
+    </item>
+    <item
+        jar="C:\Users\Меркури\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\RecordVoice\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-a4c161bc4cfbf565da46b22a1b8a7437fbbfe639.jar" />
+    </item>
+    <item
+        jar="C:\RecordVoice\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\RecordVoice\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-445abb19a6e68fe79f11dfa998abc938f3993875.jar" />
+    </item>
+    <item
+        jar="C:\RecordVoice\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\RecordVoice\app\build\intermediates\pre-dexed\debug\classes-e4f997b869efef7b994a6b5e7bd1247f475fcc61.jar" />
+    </item>
+
+</items>
